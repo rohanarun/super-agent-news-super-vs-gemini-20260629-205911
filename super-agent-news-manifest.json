@@ -1,0 +1,48 @@
+{
+  "citations": [
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/technology/ai/introducing-computer-use-in-gemini-35-flash/"
+    },
+    {
+      "source": "ALM Corp",
+      "title": "Gemini Can Now Operate Your Computer and Attackers Are Already Adapting",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVlMUHR5YkM3QkpZSWcxZ2Qyb1BiZ19rYVZudHVlQjFzQmxJZEkwb1I4NTZsUjBGRmoxdmZ5OVFlOV81MUw2bHVJa1U4bURpTVd6LXd6RlQ5QklhWkxxYlcwSm83UDU1Rkl0SkxudEg3Wm1WNmQ4OEtBT3lDMEFRQjc3Smc4UlpxMG44bWZiUmRXdw"
+    },
+    {
+      "source": "forbes.com",
+      "title": "Gemini 3.5 Flash Computer Use: Everything We Know So Far",
+      "url": "https://www.forbes.com/sites/forbestechcouncil/2026/06/27/gemini-35-flash-computer-use/"
+    },
+    {
+      "source": "cybernews.com",
+      "title": "Google lets Gemini analyze parts of your screen in Chrome",
+      "url": "https://cybernews.com/news/google-gemini-analyze-screen-chrome/"
+    },
+    {
+      "source": "time.com",
+      "title": "Why AI Agents Are the Next Great Technological Transformation",
+      "url": "https://time.com/ai-agents-next-transformation/"
+    }
+  ],
+  "design_plan": "rng=42; hero_math=max_width_1120_two_line; AIDA=pass; bento_density=grid-auto-flow:dense; label_sweep=all_competitors_present; button_contrast=black_on_paper_ok",
+  "generated_at": "2026-06-29T20:59:18.774099+00:00",
+  "headline": "Super vs Gemini",
+  "site_brief": {
+    "audience": "people comparing Super with Gemini",
+    "competitor": "Gemini",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Gemini. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Gemini AI agent",
+      "Gemini AI assistant",
+      "Gemini automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-gemini",
+    "title": "Super vs Gemini"
+  },
+  "summary": "A fair, source-backed comparison for people evaluating Gemini\u2019s new computer-use capabilities versus Super\u2019s purpose-built personal AI agents with a reusable computer-use cache\u2014optimized for repeated, real-world workflows."
+}
